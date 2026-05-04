@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a passionate developer with a unique blend of educatio
 - 💻 **Full-Stack Web Developer** proficient in modern web technologies
 - 🎓 **Educational Background**: PhD & Master's in Educational Sciences with a passion for using tech to enhance learning experiences
 - 🏢 **Currently**: Instructional Designer at **VOIS (Vodafone Shared Services)**, designing effective training solutions
-- 🌍 **Based in**: Budapest, Hungary (formerly Brazil & Portugal)
+- 🌍 **Based in**: Budapest, Hungary (formerly Brazil)
 - ⭐ **Recognized**: Multiple VOIS Star Awards winner for excellence and impact
 
 ---
