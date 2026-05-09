@@ -1,4 +1,4 @@
-<img width=100% src="<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E3A8A&height=120&section=header&animation=fadeIn"/>
+"<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E3A8A&height=120&section=header&animation=fadeIn"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A62F7&width=435&lines=Hi%2C+I'm+Carla+Pimenta;+Instructional+Designer;EdTech+Enthusiast;Junior+Web+Developer+)](https://git.io/typing-svg)
 
