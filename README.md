@@ -2,11 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A62F7&width=435&lines=Hi%2C+I'm+Carla+Pimenta;+Instructional+Designer;EdTech+Enthusiast;Junior+Web+Developer+)](https://git.io/typing-svg)
 
- 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c1bf5&height=120&section=footer"/>
-
-
-# 👋 Hi, I'm Carla Pimenta
 
 Welcome to my GitHub! I'm a passionate developer with a unique blend of education and technology expertise. With a PhD in Educational Sciences and hands-on experience in web development, I create meaningful digital solutions that bridge the gap between learning and technology.
 
@@ -132,5 +127,7 @@ Check out my repositories to see what I'm working on. I'm passionate about clean
 Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on something amazing! 
 
 ⭐ If you find any of my projects useful, please consider starring them!
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E3A8A&height=120&section=footer&animation=fadeIn"/>
 
 </div>
