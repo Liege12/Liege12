@@ -1,6 +1,6 @@
-"<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E3A8A&height=120&section=header&animation=fadeIn"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E3A8A&height=120&section=header&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A62F7&width=435&lines=Hi%2C+I'm+Carla+Pimenta;+Instructional+Designer;EdTech+Enthusiast;Junior+Web+Developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A62F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Carla+Pimenta;Instructional+Designer;EdTech+Enthusiast;Junior+Web+Developer+)](https://git.io/typing-svg)
 
 
 Welcome to my GitHub! I'm a passionate developer with a unique blend of education and technology expertise. With a PhD in Educational Sciences and hands-on experience in web development, I create meaningful digital solutions that bridge the gap between learning and technology.
